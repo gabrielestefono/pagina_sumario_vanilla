@@ -8,3 +8,9 @@
 #Versão 1.2.0 <br>
 -> Correção no Read.me <br>
 -> Criando HTML da parte superior
+
+#Versão 1.3.0 <br>
+-> Adição do estilo da parte superior
+
+#Versão 1.3.1 <br>
+-> Atualizando o readme que esqueci kkkk

@@ -1,0 +1,68 @@
+@import url(reset.css);
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body{
+    font-family: 'Hanken Grotesk', sans-serif;
+}
+
+.header{
+    width: 100vw;
+    height: 22.25rem;
+    background: linear-gradient(to bottom, #6943FF, #2F2CE9);
+    border-radius: 0 0 2rem 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header h1{
+    margin-top: 1.5rem;
+    color: #CAC9FF;
+    font-size: 1.125rem;
+    font-weight: 700;
+    line-height: auto;
+}
+
+.header > div{
+    background: linear-gradient(to bottom, #4D21C9, rgba(46, 43, 232, 0));
+    width: 8.75rem;
+    height: 8.75rem;
+    border-radius: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1.5rem;
+}
+
+.header > div p:first-child{
+    color: white;
+    font-size: 3.5rem;
+    line-height: 4.5rem;
+    font-weight: 800;
+}
+
+.header > div p:last-child{
+    color: #CAC9FF;
+    font-size: 1.125rem;
+    line-height: auto;
+    font-weight: 700;
+}
+
+.header > p:first-of-type{
+    color: white;
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: auto;
+    margin-top: 1.5rem;
+}
+
+.header > p:last-of-type{
+    color: #CAC9FF;
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 1.4;
+    margin-top: .5rem;
+    max-width: 16.25rem;
+    text-align: center;
+}

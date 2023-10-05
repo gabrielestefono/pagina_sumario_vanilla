@@ -13,4 +13,7 @@
 -> Adição do estilo da parte superior
 
 #Versão 1.3.1 <br>
--> Atualizando o readme que esqueci kkkk
+-> Atualizando o readme que esqueci kkkk <br>
+
+#Versão 1.3.1 <br>
+-> Adicionando HTML parte inferior <br>

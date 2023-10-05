@@ -15,5 +15,8 @@
 #Versão 1.3.1 <br>
 -> Atualizando o readme que esqueci kkkk <br>
 
-#Versão 1.3.1 <br>
+#Versão 1.4.0 <br>
 -> Adicionando HTML parte inferior <br>
+
+#Versão 1.4.1 <br>
+-> Corrigindo erro no read.me <br>

@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
 body{
-    font-family: 'Hanken Grotesk', sans-serif;
+    font-family: 'Hanken Grotesk', sans-serif !important;
 }
 
 .header{
@@ -65,4 +65,118 @@ body{
     margin-top: .5rem;
     max-width: 16.25rem;
     text-align: center;
+}
+
+.content{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+.content > div{
+    width: 84%;
+}
+
+.content > div > h2{
+    color: #303B59;
+    font-size: 1.125rem;
+    font-weight: 700;
+    margin-top: 1.5rem;
+}
+
+.content > div > div:first-of-type{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-top: 1.5rem;
+}
+
+.content > div > div > div{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 3.5rem;
+    align-items: center;
+    border-radius: .75rem;
+}
+
+.content > div > div > div:nth-child(1){
+    background-color: rgba(255, 85, 85, 0.05);
+}
+
+.content > div > div > div:nth-child(2){
+    background-color: rgba(255, 178, 30, 0.05);
+}
+
+.content > div > div > div:nth-child(3){
+    background-color: rgba(0, 187, 143, 0.05);
+}
+
+.content > div > div > div:nth-child(4){
+    background-color: rgba(17, 37, 214, 0.05);
+}
+
+.content > div > div > div > div{
+    display: flex;
+    gap: .75rem;
+    margin-left: 1rem;
+    align-items: center;
+}
+
+.content > div > div > div:nth-child(1) > div div{
+    background-image: url(../icons/flash.svg);
+    width: 1.25rem;
+    height:1.25rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50%;
+}
+
+.content > div > div > div:nth-child(2) > div div{
+    background-image: url(../icons/brain.svg);
+    width: 1.25rem;
+    height:1.25rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50%;
+}
+
+.content > div > div > div:nth-child(3) > div div{
+    background-image: url(../icons/chat-remove.svg);
+    width: 1.25rem;
+    height:1.25rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50%;
+}
+
+.content > div > div > div:nth-child(4) > div div{
+    background-image: url(../icons/eye-empty.svg);
+    width: 1.25rem;
+    height:1.25rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50%;
+}
+
+.content > div > div > div:nth-child(1) > div p{
+    color: #ff5555;
+}
+
+.content > div > div > div:nth-child(2) > div p{
+    color: #ffb21e;
+}
+
+.content > div > div > div:nth-child(3) > div p{
+    color: #00bb8f;
+}
+
+.content > div > div > div:nth-child(4) > div p{
+    color: #1125d6;
+}
+
+.content > div > div:last-of-type{
+    display: flex;
+    width: 100%;
+    justify-content: center;
 }

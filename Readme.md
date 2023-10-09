@@ -20,3 +20,6 @@
 
 #Versão 1.4.1 <br>
 -> Corrigindo erro no read.me <br>
+
+#Versão 1.5.0 <br>
+-> Iniciando estilização da parte inferior <br>

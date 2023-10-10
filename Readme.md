@@ -23,3 +23,9 @@
 
 #Versão 1.5.0 <br>
 -> Iniciando estilização da parte inferior <br>
+
+#Versão 1.6.0 <br>
+-> Finalizando o Mobile <br>
+
+#Versão 1.6.1 <br>
+-> Atualizando Read-me <br>

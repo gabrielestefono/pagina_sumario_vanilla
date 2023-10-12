@@ -1,3 +1,5 @@
+# Versões
+
 #Versão 1.0.0 <br>
 -> Início do Projeto
 
@@ -32,3 +34,16 @@
 
 #Versão 1.6.2 <br>
 -> Iniciando o desktop <br>
+
+#Versão 1.7.0 <br>
+-> Finalizando o Projeto <br>
+
+# NOTA
+
+Este projeto foi feito com o intuito de refinar minhas habilidades de frontend. <br> 
+
+Caso queira ver o projeto, aqui está o link do deploy: https://gabrielestefono.github.io/pagina_sumario_vanilla/ <br>
+
+A ideia foi manter o mais próximo possível do original, e aqui está uma comparação lado a lado, onde a esquerda é o original e à direita o que fiz: <br>
+
+![Comparação dos dois](image.png)
